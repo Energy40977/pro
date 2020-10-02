@@ -1,0 +1,1 @@
+[26-Jul-2020 03:12:55 UTC] PHP Fatal error:  Cannot use App\Models\Schedule as Schedule because the name is already in use in /hostimul/bynhapyv/propress.az/app/Console/Kernel.php on line 10
